@@ -1,0 +1,10 @@
+build/
+/sisu
+output/
+tmp/
+.env
+.idea/
+
+/vendor/
+
+misc/test/
